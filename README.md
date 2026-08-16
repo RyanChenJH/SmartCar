@@ -1,6 +1,7 @@
 # SmartCar
 
-<img width="184" height="187" alt="SmartCar" src="https://github.com/user-attachments/assets/aecc110b-6373-4010-a015-ecd86fe12567" />
+<img width="184" height="187" alt="SmartCar" src="https://github.com/user-attachments/assets/aecc110b-6373-4010-a015-ecd86fe12567" /><img width="217" height="220" alt="image" src="https://github.com/user-attachments/assets/414fd0dd-274e-4bdd-894d-c77c01b381ca" />
+
 
 ## 仓库入口
 
