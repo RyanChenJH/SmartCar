@@ -2,11 +2,12 @@
 
 <img width="184" height="187" alt="SmartCar" src="https://github.com/user-attachments/assets/aecc110b-6373-4010-a015-ecd86fe12567" /><img width="217" height="220" alt="image" src="https://github.com/user-attachments/assets/414fd0dd-274e-4bdd-894d-c77c01b381ca" /><img width="237" height="225" alt="20204408-2754-492e-8193-552c34faafca" src="https://github.com/user-attachments/assets/5619ac54-021d-48e8-9465-ef50c40b2622" />
 
-
+全国大学生智能汽车竞赛卡丁快跑代码开源国二
 
 ## 仓库入口
 
 本仓库当前主线是 `Kart_TC387/`：TopSpeed TC377 极速越野工程向 TC387 卡丁快跑科目一的移植。当前代码目标不是继续维护旧 TC264 模板，而是在 TC387 核心板上跑通低速、可停、可观测的底盘闭环平台。
+<img width="1280" height="1810" alt="327cf2f10992f26b4cd9900fc0cce9be" src="https://github.com/user-attachments/assets/0d909758-2f75-4144-8739-030e77198093" />
 
 当前控制主线：
 
